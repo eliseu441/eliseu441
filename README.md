@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho na **vivo**
 
-- 🌱 Atualmente estudando cursos da **Rocketseat**
+- 🌱 Atualmente estudando cursos da **Alura**
 
 - 💬 conhecimento sólido em: **react, react-native, bootstrap, node, javascript, typescript, sql-server, mysql, RESTapi, SOAPapi, html, css, express, jenkins, putty, nginx, linux e testes automatizados jest.**
 
