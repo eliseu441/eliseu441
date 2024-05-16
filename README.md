@@ -7,7 +7,7 @@
 
 - 📫 contact: **https://www.linkedin.com/in/eliseu-caetano-da-silva-68a272186/**
 
-<h3 align="left">add me:</h3>
+<h3 align="left">contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eliseu-caetano-da-silva-68a272186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliseu-caetano-da-silva-68a272186/" height="30" width="40" /></a>
 </p>
