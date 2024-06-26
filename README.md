@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences below you can see some projects that i have solid experience
   
-- - 👨‍💻 Some projects deployed on at [https://portifolio-2024-lovat.vercel.app/](https://portifolio-2024-lovat.vercel.app/)
+- - 👨‍💻 You can see more about my career and some deployed projects at [https://portifolio-2024-lovat.vercel.app/](https://portifolio-2024-lovat.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 
