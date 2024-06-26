@@ -4,6 +4,10 @@
 
 - 🔭 I’m currently working on **Alloha fibra**
 
+- 📄 Know about my experiences below you can see some projects that i have solid experience
+  
+- - 👨‍💻 Some projects deployed on at [https://portifolio-2024-lovat.vercel.app/](https://portifolio-2024-lovat.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
