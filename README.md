@@ -8,9 +8,12 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img align="right" width=200px height=150px alt="side_sticker" src="https://31.media.tumblr.com/4f988e5c43973ebe7da003264c1e7dad/tumblr_nlksbd3IAj1rpco88o2_r1_540.gif" />
-- 📄 see some pinned projects below to know about my experiences, deploy links are on right side of the project.
+
+- 🌐Visit my portifolio to know about my career and projects. https://portifolio-vite-dun.vercel.app/#/
 <br>
 - 🏹 hunting for jobs that allows me to take a step forward into new challenges.
+<br>
+- 📄 see some pinned projects below to see my last projects.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Languages and Tools:</h3>
